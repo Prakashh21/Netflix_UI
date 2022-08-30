@@ -95,4 +95,4 @@ I would hugely appreciate your feedbacks and feature proposals on the project , 
 
 ## 📜 License
 
-This is an Open-Source Project, Licensed under [MIT License](https://github.com/Prakashh21/Bigsur-Clone/blob/master/License.md). 
+This is an Open-Source Project, Licensed under [MIT License]([https://github.com/Prakashh21/Bigsur-Clone/blob/master/License.md](https://github.com/Prakashh21/Netflix_UI/blob/master/LICENSE.md)). 
