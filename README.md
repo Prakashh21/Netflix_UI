@@ -1,6 +1,6 @@
 
 
-# Netflix UI    ![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/90280586/172624742-4a10c3f6-aeb4-49c7-9ea8-b5bf72946e96.png)
+# Netflix UI   
 
 
 
