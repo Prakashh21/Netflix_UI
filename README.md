@@ -11,9 +11,10 @@
 
 ## mobile screenshots
 
-<img align=top width="50%" alt="Screenshot 2022-06-08 183239" src="https://user-images.githubusercontent.com/90280586/187535080-a4aa33cc-9f42-4f07-8167-6ddddcc942e8.png"> <img align=top width="50%" alt="Screenshot 2022-06-08 183239" src="https://user-images.githubusercontent.com/90280586/187535058-b24ab975-e1e2-45fb-b02d-9ac2b2081528.jpg">
-
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90280586/187535080-a4aa33cc-9f42-4f07-8167-6ddddcc942e8.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/90280586/187535058-b24ab975-e1e2-45fb-b02d-9ac2b2081528.jpg" width="500" /> 
+</p>
 
 
 
